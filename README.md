@@ -4,4 +4,5 @@ This repository is my Personal VScode & VScodium backup for configs, workspaces,
 [TODO] INITIATE & CONFIGURE ESLINT
 [TODO] SSH LINUX PC
 [TODO] SEARCH FOR INSTALLED PACKAGES ON WINDOWS LAPTOP TO FIND/IMPORT MISSING ALIASES IN YOUR $PSPROFILE
-[TODO] IMPORT NERDFONTS aka [text](../maple-font/v7.0-beta21) & 
+[TODO] IMPORT NERDFONTS [text](../maple-font/v7.0-beta21) & FIND how to IMPORT fonts to powershells $PSprofile directly instead of the microsoft terminal emulator app
+
