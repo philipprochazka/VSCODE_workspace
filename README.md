@@ -1,0 +1,7 @@
+This repository is my Personal VScode & VScodium backup for configs, workspaces, shell-profile-configs & anything I will need to configure these ID`s to my will and needs.
+
+[TODO] COPY POWERSHELL PROFILE FROM SERVER 
+[TODO] INITIATE & CONFIGURE ESLINT
+[TODO] SSH LINUX PC
+[TODO] SEARCH FOR INSTALLED PACKAGES ON WINDOWS LAPTOP TO FIND/IMPORT MISSING ALIASES IN YOUR $PSPROFILE
+[TODO] IMPORT NERDFONTS aka [text](../maple-font/v7.0-beta21) & 
